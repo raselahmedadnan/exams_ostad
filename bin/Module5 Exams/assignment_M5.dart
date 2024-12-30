@@ -3,7 +3,7 @@ abstract class Role {
   void displayRole();
 }
 
-//B. Class Person
+// B. Class Person
 class Person implements Role {
   String _name;
   int _age;
